@@ -1,0 +1,6 @@
+.section-bg{
+	background-image:url('../image/header-image.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
