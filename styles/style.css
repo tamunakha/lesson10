@@ -1,6 +1,65 @@
-.section-bg{
-	background-image:url('../image/header-image.jpg');
+.d-flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.section-bg {
+	background-image: url('../image/header-image.jpg.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position:center;
+	height: 900px;
+	width: 100%;
+}
+
+.header-flex{
+	display: flex;
+	justify-content: space-between;
+	padding: 60px;
+}
+
+.navigation-ul {
+	display: flex;
+
+}
+
+.nav-a{
+	color: white;
+	font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+.navigation-li {
+	margin-right: 27px;
+}
+
+.p-logo{
+	color: white;
+}
+
+.bg-title {
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 margin-top: 100px;
+}
+
+.bg-title h1 {
+	font-size: 100px;
+	color: white;
+}
+
+.bg-text {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+
+}
+
+.bg-text p {
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	color: white;
+
 }
