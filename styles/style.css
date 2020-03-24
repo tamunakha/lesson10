@@ -1,3 +1,5 @@
+
+
 .d-flex-center {
 	display: flex;
 	justify-content: center;
@@ -201,6 +203,8 @@
 .right-block-box img {
 
      width: 100%;
+
+
 }
 
 .block-pa1{
@@ -216,7 +220,32 @@
 	margin-bottom: 57px;
 }
 
-.section-flex-box1 {
+.section-flex {
 	display: flex;
 	justify-content: space-between;
+}
+.right-box {
+	width: 50%;
+
+}
+.right-box img {
+	width: 100%;
+}
+
+.left-box {
+	width: 50%;
+	padding: 80px;
+}
+.p-block1 {
+	font-size: 30px;
+	font-family: 'Lato', sans-serif;
+	text-align:left;
+}
+
+.p-block2 {
+    font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+	text-align:left;
+	margin-top: 44px;
+	margin-bottom: 57px;	
 }
